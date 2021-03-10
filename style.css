@@ -1,10 +1,25 @@
+@import url(https://allfont.es/allfont.css?fonts=coolvetica-regular);
+
 body{
-	background-color: gray;
+	background-color: #f0f0f0;
 	margin: 0;
 	padding: 0;
 }
 
 h1{
-	color: orange;
+	color: black;
 	font-size: 25px;
+	font-family: 'Coolvetica-Regular', arial;
+}
+
+#principal{
+	width: 80%;
+	position: relative;
+	margin: 0 auto;
+}
+
+
+#principal p{
+	text-indent: center;
+	font-family: arial;
 }
